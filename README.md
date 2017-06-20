@@ -1,5 +1,5 @@
 # AutonomousRCCar-CommunicationBridgeModule
-This is a RTOS repository used for Autonomous RC Car
+This is a RTOS repository used for Autonomous RC Car project
 
 * Target platform for this RTOS was NXP 1769 based microcontroller board.The core of this project is based on FreeRTOS.
 * The development platform was interfaced with an HC-05 bluetooth module and CAN transceiver MCP2551. 
